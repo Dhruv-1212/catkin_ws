@@ -1,0 +1,8 @@
+prefix=/home/dhruv/catkin_ws/devel
+
+Name: cac
+Description: Description of cac
+Version: 0.0.0
+Cflags: -I/home/dhruv/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

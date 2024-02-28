@@ -1,0 +1,17 @@
+<package format="2">
+  <name>dhruv</name>
+  <version>1.0.0</version>
+  <description>
+  This package is created by hand.
+  </description>
+  <maintainer email="xxyz@gmail.com">xyz</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>

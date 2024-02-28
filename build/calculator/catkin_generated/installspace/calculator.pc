@@ -1,0 +1,8 @@
+prefix=/home/dhruv/catkin_ws/install
+
+Name: calculator
+Description: Description of calculator
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
